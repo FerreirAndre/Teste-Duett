@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UserControl.Application</id>
+    <version>1.0.0</version>
+    <authors>UserControl.Application</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="5af62e798978cba287f16e7b08c069c820cd59ef" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\bin\Debug\net8.0\UserControl.Application.dll" target="lib\net8.0\UserControl.Application.dll" />
+  </files>
+</package>

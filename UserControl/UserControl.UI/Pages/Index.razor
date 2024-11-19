@@ -1,0 +1,46 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<AuthorizeView Roles="Admin">
+    @if (Users == null)
+    {
+        <p>Loading Data...</p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Email
+                    </th>
+                    <th>
+                        Actions
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Users)
+                {
+                    <tr>
+                        <td>@user.Name </td>
+                        <td>@user.Email </td>
+                        <td>
+                            <button @onclick="@(() => DeleteUser(user.Id))" class="btn btn-danger">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</AuthorizeView>
+
+<AuthorizeView Roles="User">
+    <Authorized>
+        <h2>Hola Mundo</h2>
+    </Authorized>
+</AuthorizeView>

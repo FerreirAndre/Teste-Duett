@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "UserControl.Api\\UserControl.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UserControl.UI\\UserControl.UI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

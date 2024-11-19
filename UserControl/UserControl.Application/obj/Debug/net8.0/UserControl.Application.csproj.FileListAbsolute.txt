@@ -1,0 +1,12 @@
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\bin\Debug\net8.0\UserControl.Application.deps.json
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\bin\Debug\net8.0\UserControl.Application.dll
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\bin\Debug\net8.0\UserControl.Application.pdb
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.GeneratedMSBuildEditorConfig.editorconfig
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.AssemblyInfoInputs.cache
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.AssemblyInfo.cs
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.csproj.CoreCompileInputs.cache
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.sourcelink.json
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.dll
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\refint\UserControl.Application.dll
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\UserControl.Application.pdb
+B:\Aplicativos\Programacao\Teste-Duett\UserControl\UserControl.Application\obj\Debug\net8.0\ref\UserControl.Application.dll
